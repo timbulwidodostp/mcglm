@@ -2,9 +2,8 @@
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
 # Fitting Multivariate Covariance Generalized Linear Models Use mcglm With (In) R Software
-install.packages("remotes")
-remotes::install_github("xliusufe/plvs")
-library("plvs")
+install.packages("mcglm")
+library("mcglm")
 # Estimate Fitting Multivariate Covariance Generalized Linear Models Use mcglm With (In) R Software
 mcglm = read.csv("https://raw.githubusercontent.com/timbulwidodostp/mcglm/main/mcglm/mcglm.csv",sep = ";")
 mcglm_ <- mc_id(mcglm)
