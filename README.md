@@ -1,6 +1,8 @@
 # mcglm
 Fitting Multivariate Covariance Generalized Linear Models Use mcglm With (In) R Software
 
+https://www.youtube.com/watch?v=HClksONMvws
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
